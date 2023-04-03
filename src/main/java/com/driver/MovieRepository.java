@@ -81,7 +81,7 @@ public class MovieRepository {
                 }
             }
 
-            //3. Deleteing the pair
+            //3. Deleting the pair
             directorMovieMapping.remove(director);
         }
 
